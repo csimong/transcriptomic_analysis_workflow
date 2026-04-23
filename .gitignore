@@ -1,0 +1,9 @@
+# Ignorar archivos de secuencias crudos y recortados
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.zip
+
+# Ignorar carpetas temporales o de datos masivos si las tienes
+datos_crudos/
